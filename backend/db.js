@@ -1,0 +1,1 @@
+export const mongoDBURL = "mongodb+srv://sarthakjain:1234@bookstore.7htagck.mongodb.net/books-collection?retryWrites=true&w=majority"
